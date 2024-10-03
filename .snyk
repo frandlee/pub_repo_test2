@@ -1,0 +1,5 @@
+# Snyk Policy File
+# Ignore the venv folder
+ignore:
+  "file:venv/**":
+    - '*'
